@@ -1,0 +1,3 @@
+NAME: Swathiboni
+COURSE: BSc- Data Science
+LEARNED ABOUT GitHub: GitHub is used to collabrate with others across the world.
